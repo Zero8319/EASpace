@@ -1,6 +1,6 @@
 # EASpace
 
-This repository includes codes for the algorithm Enhanced Action Space (EASpace) in the paper titled " EASpace: Enhanced Action Space for Policy Transfer".
+This repository includes codes and the video for the algorithm Enhanced Action Space (EASpace) in the paper titled " EASpace: Enhanced Action Space for Policy Transfer".
 
 To run the code, simply execute: python3 EASpace.py.
 
