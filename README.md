@@ -15,3 +15,4 @@ To visualize the learned policies, execute: python3 validation.py.
 - matplotlib 3.3
 
 
+<video src="https://youtu.be/SOSgwE4AeBs"></video>
