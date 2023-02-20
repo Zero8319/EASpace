@@ -14,4 +14,4 @@ To visualize the learned policies, execute: python3 validation.py.
 - torch 1.8
 - matplotlib 3.3
 
-<video src="https://youtu.be/SOSgwE4AeBs"></video>
+<iframe src="https://youtu.be/SOSgwE4AeBs">
