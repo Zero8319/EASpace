@@ -1,6 +1,6 @@
 # EASpace
 
-![EASpace](https://github.com/Zero8319/EASpace/blob/main/figure/EASpace.png)
+![EASpace](https://github.com/Zero8319/EASpace/blob/main/Images/EASpace.png)
 
 This repository includes codes and the video for the algorithm Enhanced Action Space (EASpace) in the paper titled " EASpace: Enhanced Action Space for Policy Transfer".
 
