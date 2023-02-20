@@ -83,7 +83,7 @@ def validation(algorithm):
                 x = self.layer3(x)
                 return x
     # calculate the success rate every 1000 episodes
-    for file in ['1000', '2000', '3000', '4000', '5000', '6000', '7000', '8000']:
+    for file in ['8000']:
         # file = '1000'
         time = list()
         if algorithm in ['DQN', 'Caps', 'EASpace']:
