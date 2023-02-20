@@ -2,7 +2,7 @@
 
 ![EASpace](https://github.com/Zero8319/EASpace/blob/main/Images/EASpace.png)
 
-This repository includes codes and the video for the algorithm Enhanced Action Space (EASpace) in the paper titled " EASpace: Enhanced Action Space for Policy Transfer".
+This repository includes codes, figures, and videos for the algorithm Enhanced Action Space (EASpace) in the paper titled "EASpace: Enhanced Action Space for Policy Transfer".
 
 To run the code, simply execute: python3 EASpace.py.
 
@@ -14,6 +14,4 @@ To visualize the learned policies, execute: python3 validation.py.
 - torch 1.8
 - matplotlib 3.3
 
-<video>
-      <source id="mp4" src="https://youtu.be/SOSgwE4AeBs">
-</videos>
+
