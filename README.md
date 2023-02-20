@@ -15,5 +15,5 @@ To visualize the learned policies, execute: python3 validation.py.
 - matplotlib 3.3
 
 <iframe
-src=''https://youtu.be/SOSgwE4AeBs''>
+src="https://youtu.be/SOSgwE4AeBs">
 </iframe>
