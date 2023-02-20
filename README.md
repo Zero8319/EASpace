@@ -11,3 +11,5 @@ To visualize the learned policies, execute: python3 validation.py.
 - numpy 1.19
 - torch 1.8
 - matplotlib 3.3
+
+![EASpace](https://github.com/Zero8319/EASpace/blob/main/figure/EASpace.pdf)
