@@ -75,7 +75,7 @@ def validation(algorithm):
                 termination = torch.sigmoid(self.layer8(termination))
                 return action_value, termination
     # calculate the success rate every 1000 episodes
-    for file in ['0', '1000', '2000', '3000', '4000', '5000', '6000', '7000', '8000']:
+    for file in ['8000']:
         # file = '1000'
         t_per_episode = list()
         is_collision = list()
